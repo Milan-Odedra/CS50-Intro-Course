@@ -9,6 +9,5 @@ I have made this repository to show my solutions to Harvard University's <a href
     + [less]
     + [more]
   * [cash]
-  * [credit]
   
   # Links to be added
