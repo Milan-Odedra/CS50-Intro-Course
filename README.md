@@ -1,4 +1,4 @@
-## cs50 Introduction To Computer Science
+## CS50 Introduction To Computer Science
 I have made this repository to show my solutions to Harvard University's <a href='https://www.edx.org/course/cs50s-introduction-to-computer-science'>2020 CS50 intro course</a> assignments and document my progress during the course.
 
 ## Table Of Contents
